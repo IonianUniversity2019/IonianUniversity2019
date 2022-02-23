@@ -1,13 +1,27 @@
 {
-    "title": "Nerds of the 90s",
-    "description": "This is just a demo of a webring. It could be about anything - Metal Bands, Knitting, Craft Beer, Accessibility... For this one, let's just say it's about the good old 90s.",
+    "title": "IonianUniversity2019",
+    "description": "This is our team",
     "image": "freakazoid.jpg",
-    "url": "https://webringdemo.netlify.com",
-    "repo": "https://github.com/maxboeck/webring",
+    "url": "https://IonianUniversity2019.netlify.com",
+    "repo": "https://IonianUniversity2019",
     "admins": [
         {
-            "name": "Max Böck",
-            "url": "https://github.com/maxboeck"
+            "name": "Anastasia-Rizou",
+            "url": "https://github.com/Anastasia-Rizou/sw/tree/2019156",
+            "name": "p19pasa",
+            "url" : "https://github.com/p19pasa/sw/tree/2019173",
+            "name": "PetroulaStylianou",
+            "url": "https://github.com/PetroulaStylianou/sw/tree/2019223",
+            "name": "p9poul",
+            "url": "https://github.com/p19poul/sw",
+            "name": "p19verg",
+            "url": "https://github.com/p19verg/sw/tree/2019127",
+            "name": "p18anas",
+            "url": "https://github.com/p18anas/sw/tree/2018203",
+            "name": "AnastasiaMariaStefani",
+            "url": "https://github.com/AnastasiaMariaStefani/sw/tree/2019013",
+            "name": "eliastk09",
+            "url": "https://github.com/eliastks09/sw/tree/master"
         }
     ]
 }
