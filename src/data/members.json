@@ -1,28 +1,53 @@
 
-{
-    "title": "IonianUniversity2019",
-    "description": "This is our team",
-    "image": "super-heroes-couple-flying_1284-12007.jpg",
-    "url": " https://ionianuniversity2019.github.io/webring/",
-    "repo": "https://IonianUniversity2019",
-    "admins": [
-        {
-            "name": "Anastasia-Rizou",
-            "url": "https://github.com/Anastasia-Rizou/sw/tree/2019156",
-            "name": "p19pasa",
-            "url" : "https://github.com/p19pasa/sw/tree/2019173",
-            "name": "PetroulaStylianou",
-            "url": "https://github.com/PetroulaStylianou/sw/tree/2019223",
-            "name": "p9poul",
-            "url": "https://github.com/p19poul/sw",
-            "name": "p19verg",
-            "url": "https://github.com/p19verg/sw/tree/2019127",
-            "name": "p18anas",
-            "url": "https://github.com/p18anas/sw/tree/2018203",
-            "name": "AnastasiaMariaStefani",
-            "url": "https://github.com/AnastasiaMariaStefani/sw/tree/2019013",
-            "name": "eliastk09",
-            "url": "https://github.com/eliastks09/sw/tree/master"
-        }
-    ]
-}
+[
+    {
+        "title": "Anastasia-Rizou",
+        "url": "https://github.com/Anastasia-Rizou/sw/tree/2019156",
+        "feed": "null"
+    },
+    {
+        "title": "p19pasa",
+        "url": "https://github.com/p19pasa/sw/tree/2019173",
+        "feed": "null"
+    },
+    {
+        "title": "PetroulaStylianou",
+        "url": "https://github.com/PetroulaStylianou/sw/tree/2019223",
+        "feed": null
+    },
+    {
+        "title": "Bp9poul",
+        "url": "https://github.com/p19poul/sw",
+        "feed": null
+    },
+    {
+        "title": "p19verg",
+        "url": "https://github.com/p19verg/sw/tree/2019127",
+        "feed": null
+    },
+    {
+        "title": "p18anas",
+        "url": "https://github.com/p18anas/sw/tree/2018203",
+        "feed": "https://www.zachleat.com/web/feed/"
+    },
+    {
+        "title": "AnastasiaMariaStefani",
+        "url": "https://github.com/AnastasiaMariaStefani/sw/tree/2019013",
+        "feed": null
+    },
+    {
+        "title": "eliastk09",
+        "url": "https://cogdogblog.com/",
+        "feed": "https://cogdogblog.com/feed"
+    },
+    {
+        "title": "https://github.com/eliastks09/sw/tree/master",
+        "url": "https://mhitza.github.io",
+        "feed": "https://mhitza.github.io/atom.xml"
+    },
+    {
+        "title": "Rings around the Internet",
+        "url": "https://fanlistings.nickifaulk.com/webrings/",
+        "feed": null
+    }
+]
